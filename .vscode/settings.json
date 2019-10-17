@@ -13,5 +13,6 @@
     "statusBarItem.hoverBackground": "#994a39",
     "statusBar.foreground": "#e7e7e7"
   },
-  "peacock.color": "#74382b"
+  "peacock.color": "#74382b",
+  "python.pythonPath": "c:\\dev\\python-work\\.venv\\Scripts\\python.exe"
 }
